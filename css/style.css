@@ -54,7 +54,7 @@ button{
 .header {
     height: 100vh;
     width: 100vw;
-    background: url(/img/header-bg.jpg);
+    background: url(../img/header-bg.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -387,7 +387,7 @@ button{
 .amazing{
     height: 500px;
     position: relative;
-    background: url(/img/amazing_bg.png);
+    background: url(../img/amazing_bg.png);
     background-position: bottom center;
     background-size: cover;
 }
